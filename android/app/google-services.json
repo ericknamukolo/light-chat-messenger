@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997865848016",
+    "project_id": "light-chat-84ae0",
+    "storage_bucket": "light-chat-84ae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997865848016:android:c6eb25dc563f7bceac32d5",
+        "android_client_info": {
+          "package_name": "com.example.lightning_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997865848016-b1p5mi4jna7png9pheo9sh1ji8jc0t7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZdWAjvaWlMi0KBAg9ZiJLQWkg8H9pJuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997865848016-b1p5mi4jna7png9pheo9sh1ji8jc0t7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
